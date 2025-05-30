@@ -1,5 +1,8 @@
+
 🚑 Hospital EMR Data Pipeline for Business Intelligence
-This project showcases a complete data engineering pipeline for ingesting, storing, and visualizing Electronic Medical Records (EMR) data from a hospital setting. Built using Azure Data Factory (ADF), Azure SQL Database, and Power BI, the goal is to make EMR data accessible and insightful for stakeholders through effective Business Intelligence (BI).
+
+This project showcases a complete data engineering pipeline for ingesting, storing, and visualizing Electronic Medical Records (EMR) data from a hospital setting. 
+Built using Azure Data Factory (ADF), Azure SQL Database, and Power BI, the goal is to make EMR data accessible and insightful for stakeholders through effective Business Intelligence (BI).
 
 📊 Project Overview
 Source: Hospital EMR Data (structured files)
